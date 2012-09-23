@@ -1,0 +1,69 @@
+body {
+    font:normal 18px/1.6em Arial, Helvetica, sans-serif;
+	color:#2a3845;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
+}
+
+#nav{
+	list-style-type:none;
+	text-align:right;
+
+
+
+
+	
+	;
+}
+#nav-container{
+	
+	text-align:center;
+	display:inline-block;
+	background-color: #000; /* fallback color, place your own */
+
+  /* Gradients for modern browsers, replace as you see fit */
+  background-image: -moz-linear-gradient(top, #333333, #222222);
+  background-image: -ms-linear-gradient(top, #333333, #222222);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#333333), to(#222222));
+  background-image: -webkit-linear-gradient(top, #333333, #222222);
+  background-image: -o-linear-gradient(top, #333333, #222222);
+  background-image: linear-gradient(top, #333333, #222222);
+  background-repeat: repeat-x;
+
+  /* IE8-9 gradient filter */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#222222', GradientType=0);}
+
+#nav-container li{
+	color:#C4C4C4;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px 25px;
+}
+
+#nav-container a{
+	color:#C4C4C4;
+	display:inline-block;
+	text-decoration:none;
+	padding:10px 5px;
+	border:10px;
+}
+
+
+
+
+#nav-container a:hover{
+	background-color:#1A1A1A;
+	overflow:auto;
+	display:inline-block;
+	
+}
+
+h1{
+	padding:20px;
+	text-decoration:none;
+	text-align:center;
+	margin-top:75px;
+	
+}
+
